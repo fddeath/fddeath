@@ -1,4 +1,27 @@
-<h1>Framework</h1>
-<ul>
-  <li>Laravel</li>
-</ul>
+### Tools
+
+- VSCode
+- Figma
+- Docker
+- Composer
+- Git
+
+### Languages
+
+- PHP
+- JS
+- HTML
+- CSS
+
+### Libraries
+
+- React
+
+### Framework
+
+- Laravel
+
+---
+
+[Fiverr](https://www.fiverr.com/fddeath)
+[UpWork]()
